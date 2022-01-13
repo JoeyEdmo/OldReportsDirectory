@@ -1,7 +1,7 @@
 # Hello World!
-  ## in the beginning
+  ## In the beginning
   > this is the captains speaking.
-  ## the middle
+  ## The middle
   > the captain is not speaking idk
-  ## the end
+  ## The end
   >the end
