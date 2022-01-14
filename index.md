@@ -8,4 +8,4 @@
 
 [DO NOT CLICK LINK](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-![Image](Screenshot 2022-01-13 163200.png)
+![Image](http://url/screenshot.png)
